@@ -6,7 +6,7 @@ To solve this architectural issue, GPU manufacturers introduced some hardware-ba
 
 However, not all the hybrid laptops support the CASO and, Microsoft shares the system requirements as in the following table.
 
-<img src="https://github.com/semihartan/CheckCASO/assets/13886510/1bc3ebdc-e342-4c96-ab34-0fc519cfbd90" width='%50' height=auto></img>
+<img src="https://github.com/semihartan/CheckCASO/assets/13886510/1bc3ebdc-e342-4c96-ab34-0fc519cfbd90" width="50%" height="auto" alt="requirements"></img>
 
 ## CheckCASO
 
